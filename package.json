@@ -29,7 +29,9 @@
         "c++",
         "iostream",
         "std",
-        "cpp"
+        "cpp",
+        "contest",
+        "programming contest"
     ],
     "contributes": {
         "snippets": [

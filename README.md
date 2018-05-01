@@ -23,8 +23,10 @@ Type "cppstd"(or even shorter) and press "Tab".
 If you have any issues report them at [Issues](https://github.com/Adyel/Cpp-Contest-QStart/issues)
 
 # License
-This extension is mostly based on "HTML Boilerplate" (https://github.com/sidthesloth92/vsc_html5_boilerplate)
-Since I have done a little work, I don't want to keep any copyright, you only have to follow his one(MIT).
+This extension is based on  [C++ Quick Start for Beginners](https://github.com/yyxhx/vsce_cppQuickStartForBeginners)
+which is mostly based on [HTML Boilerplate] (https://github.com/sidthesloth92/vsc_html5_boilerplate)
+
+All of these extension is licenced under the "MIT" license.
 
 # Source
 [Github](https://github.com/Adyel/Cpp-Contest-QStart)

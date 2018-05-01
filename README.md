@@ -15,7 +15,7 @@ Type "cppstd"(or even shorter) and press "Tab".
 2. Launch VS Code
 3. Launch the command palette by using `Ctrl-Shift-P` (Windows, Linux) or `Cmd-Shift-P` (OSX)
 4. Type in Install Extension and select 'Extensions : Install Extensions'
-5. Type `C++ Quick Start for Beginners`
+5. Type ` CPP Contest Quick Start`
 6. Choose the extension from the drop down
 7. Reload Visual Studio Code
 

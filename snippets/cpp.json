@@ -9,6 +9,7 @@
 			"\tusing namespace std;",
 			"\tios_base::sync_with_stdio(false);",
 			"\tcin.tie(NULL);",
+			"\t",
 			"\t$1",
 			"\t",
 			"\treturn 0;",

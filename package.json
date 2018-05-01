@@ -1,8 +1,8 @@
 {
-    "name": "cpp-quick-start-snippet-for-beginners",
-    "displayName": "C++ Quick Start Snippet for Beginners",
-    "publisher": "yyxhx",
-    "description": "A C++ snippet generator contains few lines probably needed by beginners.",
+    "name": "cpp-Contest-QStart",
+    "displayName": "C++ Quick Start Snippet for programming contest",
+    "publisher": "Adyel",
+    "description": "A C++ snippet generator contains the boring few lines needed for each problems.",
     "version": "1.0.1",
     "license": "MIT",
     "icon": "images/icon.png",
@@ -13,14 +13,14 @@
     "engines": {
         "vscode": "^0.10.x"
     },
-    "homepage": "https://github.com/yyxhx/vsce_cppQucikStartForBeginners/README.md",
+    "homepage": "https://github.com/Adyel/Cpp-Contest-QStart",
     "bugs": {
-        "url": "https://github.com/yyxhx/vsce_cppQucikStartForBeginners/issues",
-        "email": "yyxhx@live.com"
+        "url": "https://github.com/Adyel/Cpp-Contest-QStart/issues",
+        "email": "adyel@live.com"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/yyxhx/vsce_cppQucikStartForBeginners.git"
+        "url": "https://github.com/Adyel/Cpp-Contest-QStart.git"
     },
     "categories": [
         "Snippets"

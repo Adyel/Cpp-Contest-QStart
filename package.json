@@ -30,8 +30,7 @@
         "iostream",
         "std",
         "cpp",
-        "contest",
-        "programming contest"
+        "contest"
     ],
     "contributes": {
         "snippets": [

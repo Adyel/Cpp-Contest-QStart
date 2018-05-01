@@ -24,7 +24,7 @@ If you have any issues report them at [Issues](https://github.com/Adyel/Cpp-Cont
 
 # License
 This extension is based on  [C++ Quick Start for Beginners](https://github.com/yyxhx/vsce_cppQuickStartForBeginners)
-which is mostly based on [HTML Boilerplate] (https://github.com/sidthesloth92/vsc_html5_boilerplate)
+which is mostly based on [HTML Boilerplate](https://github.com/sidthesloth92/vsc_html5_boilerplate)
 
 All of these extension is licenced under the "MIT" license.
 

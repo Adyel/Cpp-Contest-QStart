@@ -7,7 +7,7 @@ Well, not anymore. You can create the whole skeleton code with few keystrokes.
 # Usage
 Type "cppstd"(or even shorter) and press "Tab".
 
-![It seems the preview image doesn't work properly, you may visit the source page(see below) or try this link: raw.githubusercontent.com/yyxhx/vsce_cppQuickStartForBeginners/master/images/preview.gif](https://raw.githubusercontent.com/yyxhx/vsce_cppQuickStartForBeginners/master/images/preview.gif "Snippets Preview")
+![It seems the preview image doesn't work properly, you may visit the source page(see below) or try this link: raw.githubusercontent.com/yyxhx/vsce_cppQuickStartForBeginners/master/images/preview.gif](https://raw.githubusercontent.com/Adyel/Cpp-Contest-QStart/master/images/preview.gif "Snippets Preview")
 
 # Installation
 

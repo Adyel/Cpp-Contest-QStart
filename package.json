@@ -1,6 +1,6 @@
 {
-    "name": "cpp-Contest-QStart",
-    "displayName": "C++ Quick Start Snippet for programming contest",
+    "name": "CPP-Contest-QStart",
+    "displayName": "CPP Contest Quick Start",
     "publisher": "Adyel",
     "description": "A C++ snippet generator contains the boring few lines needed for each problems.",
     "version": "1.0.1",

@@ -3,17 +3,18 @@
 		"prefix": "cppstd",
 		"body" : [
 			"#include <iostream>",
+			"",
 			"int main()",
 			"{",
-			"using namespace std;",
-			"ios_base::sync_with_stdio(false);",
-			"cin.tie(NULL);",
+			"\tusing namespace std;",
+			"\tios_base::sync_with_stdio(false);",
+			"\tcin.tie(NULL);",
 			"\t$1",
 			"\t",
 			"\treturn 0;",
 			"}",
 			""
 		],
-		"description": "This contains few lines probably needed for beginners."
+		"description": "C++ skeleton"
 	}
 }

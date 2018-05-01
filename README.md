@@ -1,9 +1,8 @@
 # README
-## Visual Studio Code C++ Quick Start for Beginners
+## Visual Studio Code CPP Contest Quick Start
 
-I'm a CS freshman and find myself always doing the same boring work: #include <iostream> using namespace...
-So I decided to make it easier. And here is:
-A C++ snippet generator contains few lines probably needed by beginners.
+When you try to solve/practice promlems from programming contest you have to repeat same monotonus skeleton code again and again.
+Well, not anymore. You can create the whole skeleton code with few keystrokes.
 
 # Usage
 Type "cppstd"(or even shorter) and press "Tab".
@@ -21,11 +20,11 @@ Type "cppstd"(or even shorter) and press "Tab".
 7. Reload Visual Studio Code
 
 # Contact
-If you have any issues report them at [Issues](https://github.com/yyxhx/vsce_cppQuickStartForBeginners/issues)
+If you have any issues report them at [Issues](https://github.com/Adyel/Cpp-Contest-QStart/issues)
 
 # License
 This extension is mostly based on "HTML Boilerplate" (https://github.com/sidthesloth92/vsc_html5_boilerplate)
 Since I have done a little work, I don't want to keep any copyright, you only have to follow his one(MIT).
 
 # Source
-[Github](https://github.com/yyxhx/vsce_cppQuickStartForBeginners)
+[Github](https://github.com/Adyel/Cpp-Contest-QStart)

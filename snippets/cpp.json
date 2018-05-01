@@ -3,13 +3,13 @@
 		"prefix": "cppstd",
 		"body" : [
 			"#include <iostream>",
-			"using namespace std;",
-			"",
 			"int main()",
 			"{",
+			"using namespace std;",
+			"ios_base::sync_with_stdio(false);",
+			"cin.tie(NULL);",
 			"\t$1",
 			"\t",
-			"\tsystem(\"pause\");",
 			"\treturn 0;",
 			"}",
 			""

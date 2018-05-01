@@ -4,10 +4,17 @@
 When you try to solve/practice promlems from programming contest you have to repeat same monotonus skeleton code again and again.
 Well, not anymore. You can create the whole skeleton code with few keystrokes.
 
+
 # Usage
 Type "cppstd"(or even shorter) and press "Tab".
 
 ![It seems the preview image doesn't work properly, you may visit the source page(see below) or try this link: raw.githubusercontent.com/yyxhx/vsce_cppQuickStartForBeginners/master/images/preview.gif](https://raw.githubusercontent.com/Adyel/Cpp-Contest-QStart/master/images/preview.gif "Snippets Preview")
+
+
+## What are those extra lines ?
+Those lines are used to speed up the I/O. In [some cases](http://codeforces.com/blog/entry/925) it is  `iostream` is faster then `cstdio`.
+
+You can read details about it here : [GeeksForGeeks](https://www.geeksforgeeks.org/fast-io-for-competitive-programming/)
 
 # Installation
 
